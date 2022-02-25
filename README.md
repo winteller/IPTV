@@ -17,3 +17,5 @@ IPTV Source Verified by myself under wuhan china-unicom network with channle lab
 应用：KODI 19.3
 
 插件：Simple IPTV Client
+
+网络：中国联通200M

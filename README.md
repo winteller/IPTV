@@ -19,3 +19,11 @@ IPTV Source Verified by myself under wuhan china-unicom network with channle lab
 播放：Simple IPTV Client
 
 网络：中国联通 200M 
+
+## 不再发行的软件
+
+### 糖豆广场舞
+
+![糖豆广场舞](/Assets/Pics/糖豆.jpg)
+
+[下载](/Assets/APKs/糖豆.apk)
